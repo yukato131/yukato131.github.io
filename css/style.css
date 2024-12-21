@@ -6355,13 +6355,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #0b66ce !important;
+  background-color: #171c23  !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color:rgba(52, 58, 64, 0.5) !important;
+  background-color:#171c23  !important;
 }
 
 .bg-secondary {
